@@ -26,4 +26,4 @@ This bot will return a python list of all users that you FOLLOW but do NOT follo
 ### IMPORTANT NOTES:
 - Insert username & password on line 93. replace the text INSERT USERNAME HERE & INSERT PASSWORD HERE, with your own passwords AND keep single quotations around the text.
 
-- Save main.py inside of te project folder.
+- Save main.py inside of the project folder.
